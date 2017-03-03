@@ -28,6 +28,7 @@
         <item name="castExpandedControllerToolbarStyle">
             @style/ThemeOverlay.AppCompat.Dark.ActionBar
         </item>
+        <item name="android:windowTranslucentStatus">true</item>
     </style>
 
     <style name="Theme.CastVideosDark" parent="Theme.AppCompat.NoActionBar">
